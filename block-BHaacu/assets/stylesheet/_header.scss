@@ -1,0 +1,54 @@
+.header{
+    background-color: #DC3C45;
+    .head{
+        padding: 1rem ;
+        i{
+            color: #ffffff;
+            padding: 0 .5rem;
+        }
+        p{
+            color: #ffffff;
+        }
+    }
+    .nav{
+        background-color: #F2F2F2;
+        padding: 0.5rem;
+    }
+    .nav a{
+        color: #3D3D3D;
+        margin-right: 1rem;
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+    .nav .brand a {
+        font-size: 2rem;
+        font-weight: 800;
+        color: #DC3C45;
+    }
+    .nav .brand span {
+        color: black;
+    
+    } 
+    .active{
+        background-color: #DC3C45;
+        margin-right: .5rem;
+        padding: .2rem;
+    }  
+    .sub-menu-box {
+        position: relative;
+
+    }
+    .sub-menu {
+        position: absolute;
+        background-color: #fff; 
+        width: 8rem;
+        text-align: center;
+        left: 50%;
+        transform: translateX(-40%);
+        display: none;
+        top: 1.8rem;
+    }
+    .sub-menu-box:hover .sub-menu{
+        display: inline-block;
+    }
+}

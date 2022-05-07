@@ -1,0 +1,58 @@
+.error-page-section-1 {
+    background-color: #DC3C45;
+    text-align: center;
+}
+.error-page-section-1 h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+    padding-bottom: 1.5rem;
+}
+.error-page-section-1 p {
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+// Section 2
+
+.error-page-section-2 h2{
+    font-size: 3rem;
+    color: black;
+    padding: 2rem 0;
+    text-align: center;
+    font-weight: 700;
+}
+.error-page-section-2 p {
+    font-size: 1.3rem;
+    text-align: center;
+    color: rgb(99, 97, 97);
+    padding-bottom: 2rem;
+}
+.error-page-section-2 .flex-30 {
+    text-align: center;
+}
+.circle {
+    width: 4rem;
+    height: 4rem;
+    background-color: #F2F2F2;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #DC3C45;
+    font-size: 3rem;
+    padding: 1.5rem 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.error-page-section-2 .flex-30 {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+.error-page-section-2 .flex-30 p {
+    color: black;
+    font-size: 1.2rem;
+}
+.error-page-section-2 .flex-30 a {
+    color: black;
+}

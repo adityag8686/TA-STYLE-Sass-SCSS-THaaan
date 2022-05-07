@@ -1,0 +1,96 @@
+.pricing-page-section-1 {
+    padding: 4rem 0;
+    background-color: #DC3C45;
+    text-align: center;
+}
+.pricing-page-section-1 h2 {
+    font-size: 3rem;
+    color: #ffffff;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+.pricing-page-section-1 p{
+    font-size: 1.3rem;
+    color: #ffffff;
+}
+
+// section 2 
+.pricing-page-section-2 {
+    background-color: #F2F2F2;
+    text-align: center;
+    padding-bottom: 6rem;
+}
+.pricing-page-section-2 p {
+    padding: 2rem 0;
+    font-size: 1.3rem;
+    color: rgb(150, 148, 148);
+}
+.pricing-page-section-2 .flex-30{
+    margin-top: 2rem;
+}
+.pricing-page-section-2 h3{
+    font-size: 1.4rem;
+}
+.pricing-page-section-2 h4{
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 1.5rem 0;
+}
+.pricing-page-section-2 h5{
+    color: rgb(134, 133, 133);
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+.pricing-page-section-2 h6{
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+.pricing-page-section-2 li {
+    padding: 1rem 0;
+    font-size: 1.1rem;
+    color: rgb(80, 79, 79);
+}
+.pricing-page-section-2 .btn {
+    width: 50%;
+    margin: 0 auto;
+}
+.pricing-page-section-2 .btn a {
+    color: #DC3C45;
+}
+.pricing-page-section-2 .flex-30 {
+    background-color: #ffffff;
+    border: 1px solid rgb(177, 176, 176);
+    border-radius: 4px;
+    padding: 1.5rem 0;
+}
+
+// section 3
+.pricing-page-section-3 h2 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    padding: 1.5rem 0;
+}
+.pricing-page-section-3 p{
+    text-align: center;
+    font-size: 1.3rem;
+    color: rgb(138, 135, 135);
+    padding: 1rem 0;
+    padding-bottom: 3rem;
+}
+.pricing-page-section-3 .flex-48 {
+    border: 1px solid rgb(214, 211, 211);
+    padding: 2rem 0rem;
+    margin-top: 2rem;
+    border-radius: 4px;
+}
+.pricing-page-section-3 .flex-48 h3{
+    font-size: 1.3rem;
+    padding-left: 1rem;
+}
+.pricing-page-section-3 .flex-48 p {
+    font-size: 1.1rem;
+    text-align: left;
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
