@@ -1,0 +1,57 @@
+.contact-page-section-1 {
+    text-align: center;
+    background-color: #DC3C45;
+    padding: 4rem 0;
+}
+.contact-page-section-1 h2 {
+    font-size: 3rem;
+    color: #ffffff;
+    font-weight: 700;
+    padding-bottom: 1.5rem;
+}
+.contact-page-section-1 p {
+    color: #ffffff;
+    font-size: 1.3rem;
+}
+
+// section 2 
+
+.contact-page-section-2 {
+    text-align: center;
+    padding: 5rem 0;
+}
+.contact-page-section-2 h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+.contact-page-section-2 p {
+    font-size: 1.3rem;
+    color: rgb(138, 133, 133);
+}
+.contact-page-section-2 input {
+    width: 100%;
+    padding: 1rem 0;
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgb(160, 157, 157);
+    border-radius: 8px;
+    font-size: 1.2rem;
+}
+.contact-page-section-2 textarea {
+    width: 100%;
+    padding: 1rem 0;
+    padding-left: 1rem;
+    border: 1px solid rgb(160, 157, 157);
+    border-radius: 8px;
+    font-size: 1.2rem;
+}
+.contact-page-section-2 .flex-48 {
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+}
+.contact-page-section-2 .btn {
+    background-color: #DC3C45;
+    color: #ffffff;
+    margin-top: 2rem;
+}
