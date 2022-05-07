@@ -1,0 +1,172 @@
+.hero-section {
+    height: 80vh;
+    background-image: url(../media/banner-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    font-size: 3rem;
+    color: black;
+    font-weight: 700;
+    padding-top: 8rem;
+    text-transform: uppercase;
+}
+.hero-section p {
+    font-size: 2rem;
+    color: #3D3D3D;
+    padding: 1rem 0;
+    padding-bottom: 2rem;
+}
+.hero-section .btn {
+    background-color: #DC3C45;
+    color: #ffffff;
+    border-radius: 2.5rem;
+    font-size: 1.2rem;
+}
+// Section 2 (Services S3ection)
+
+.services-section{
+    text-align: center;
+    padding: 3rem 0;
+}
+.services-section h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 2rem 0;
+}
+.services-section p {
+    font-size: 1.5rem;
+    color: #3D3D3D;
+    padding-bottom: 1rem 0;
+}
+.services-section .flex-25 {
+    margin-top: 2rem;
+    padding: 2rem 2rem;
+    border: 2px solid rgb(224, 222, 222);
+    border-radius: 20px;
+    padding-bottom: 5rem;
+}
+.services-section .flex-25 h3 {
+    font-size: 1.75rem;
+    padding: 1rem 0;
+    font-weight: 600;
+    color: #1B1E24;
+}
+.services-section .flex-25 p {
+    font-size: 1.2rem;
+    color: rgb(141, 138, 138);
+    padding-bottom: 3rem;
+}
+.services-section img {
+    width: 8rem;
+}
+// Solution section(section 3)
+
+.solution-section {
+    padding: 5rem 10rem;
+    text-align: center;
+    background-color: #F8F9FA;
+}
+.solution-section h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-bottom: 3rem;
+}
+.solution-section p {
+    font-size: 1.3rem;
+    color: #727A82;
+    padding-bottom: 3rem;
+}
+// Consulting section (section 4)
+
+.consulting-section img{
+    width: 5rem;
+}
+.consulting-section .flex-45 {
+    text-align: center;
+    padding: 3rem 0;
+}
+.consulting-section h3{
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 1rem 0;
+    text-transform: capitalize;
+}
+.consulting-section p {
+    font-size: 1.2rem;
+    color: #727A82;
+    padding-bottom: 2rem;
+}
+.team img {
+    width: 100%;
+    border-radius: 8px;
+}
+//quote section
+
+.quote-section {
+    padding: 2rem 0;
+    background-color: #DC3C45;
+}
+.quote-section h3 {
+    font-size: 1.7rem;
+    padding: .5rem 0;
+    color: #ffffff;
+}
+.quote-section p {
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+.quote-section .btn {
+    background-color: #DC3C45;
+    color: #fff;
+    border: 1px solid #ffffff;
+}
+// industry section (section 6)
+
+.industry-section img{
+    width: 100%;
+    object-fit: cover;
+}
+.industry-section h4 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-bottom: 2rem;
+}
+.industry-section p {
+    font-size: 1.2rem;
+    color: #727A82;
+}
+// Client Section
+
+.client-section{
+    padding: 4rem 0;
+    background-color: #F8F9FA;
+    h4{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    img{
+        width: 5rem;
+        padding: 2rem;
+        filter: grayscale(100%);
+    }
+    img:hover{
+        filter: grayscale(0%);
+    }
+}
+.information-section {
+    background-color: #343A40;
+    padding: 5rem 0;
+    h5 {
+    font-size: 1.5rem;
+    color: #F2F2F2;
+    padding-bottom: 1rem;
+}
+li {
+    padding-bottom: 1rem;
+    color: #939597;
+    margin-right: 0.75rem;
+    font-size: 1.1rem;
+}
+}
